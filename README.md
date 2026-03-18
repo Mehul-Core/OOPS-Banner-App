@@ -1,2 +1,2 @@
 # OOPS-Banner-App
-OOPS-Objext Oriented Programming languages
+OOPS-Object Oriented Programming languages
